@@ -1,3 +1,9 @@
+## Modification 
+
+Modifying config.yaml for correct tuner recognition.
+Modyfikacja config.yaml dla poprawnego rozpoznawania tunera.
+
+
 # Home Assistant Add-ons by GauthamVarmaK
 
 ![Project Stage][project-stage-shield]
